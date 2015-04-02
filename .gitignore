@@ -1,0 +1,9 @@
+# Sublime Text
+*.sublime-workspace
+
+# WebStorm IDE
+*.iml
+.idea/
+
+# vim
+*.swp
