@@ -4,7 +4,7 @@ Gravity Forms Zendesk Add-On integrates Gravity Forms with Zendesk allowing form
 
 ### Version
 
-0.1
+0.1-alpha
 
 ### Requirements
 
